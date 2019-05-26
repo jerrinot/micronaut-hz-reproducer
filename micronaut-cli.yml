@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: info.jerrinot
+---
+testFramework: junit
+sourceLanguage: java

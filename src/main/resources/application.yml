@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: microcache
+hazelcast:
+  client: false
+  caches:
+    notcounter:
+      enabled: true
