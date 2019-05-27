@@ -30,7 +30,7 @@ configurations {
 }
 
 dependencies {
-    compile 'com.github.alparslanavci:hazelcast-micronaut-cache:-SNAPSHOT'
+    compile 'com.github.jerrinot:hazelcast-micronaut-cache:no-subclass-SNAPSHOT'
     compile 'com.hazelcast:hazelcast:3.12'
     annotationProcessor "io.micronaut:micronaut-inject-java"
     annotationProcessor "io.micronaut:micronaut-validation"
